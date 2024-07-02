@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jafet! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a >Cybersecurity Professional</a>,
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Cybersecurity Projects</h2>
 
 
 - <b>PowerShell</b>
