@@ -1,7 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Jafet! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a >Cybersecurity Professional</a>,
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
 
 <!--
-**JafetAguilar/JafetAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
