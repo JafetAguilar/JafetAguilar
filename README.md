@@ -2,9 +2,10 @@
 
 <h2>Cybersecurity Projects</h2>
 
-
+- <b>Home Lab</b>
+  -[Building Home Lab]
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation]
 
 
 <!--
